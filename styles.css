@@ -1,0 +1,150 @@
+.top {
+  background-color: aquamarine;
+  height: 100%;
+  width: 100%;
+  text-align: center;
+  position: relative;
+  padding-top: 100px;
+  line-height: normal;
+}
+body {
+  margin: 0cm;
+  font-family: "Courier New", Courier, monospace;
+  text-align: center;
+}
+.cloud1 {
+  position: absolute;
+  right: 300px;
+  top: 70px;
+  width: 200px;
+
+}
+.cloud {
+  position: absolute;
+  left:250px;
+  width: 200px;
+}
+.name{
+  font-family: 'Lobster', cursive;
+  font-size: 90px;
+  margin-top: 50px;
+  margin-bottom: 5px;
+  color:#213e3b;
+} 
+.lin{
+    font-family: 'Dancing Script', cursive;
+    font-size: 2.5rem;
+    color: #213e3b;
+    font-weight: normal;
+}
+.skill-image{
+    width: 25%;
+    float: left;
+    margin-right: 50px;
+}
+.copyright{
+    background-color: black;
+    color: cornsilk;
+    margin-bottom: 0cm;
+}
+.mywork{
+    width: 18%;
+    float: right;
+    margin-right: 50px;
+}
+.arjun{
+    margin-top: 50px ;
+    height: 150px;
+    width: 150px;
+}
+.footer-link{
+ color: #119999;
+ margin : 30px ;
+}
+a:hover{
+  position: relative;
+ bottom: 10px;
+}
+.btn{
+  color: #119999;
+}
+.hed{
+  color: #213e3b;
+}
+.skills{
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+}
+.code{
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+.skl{
+  text-align: left;
+  line-height: 30px;
+}
+.h2{
+  color: #119999;
+}
+.dot{
+  border-top-style: dotted;
+  width: 30px;
+  border-top-width: thick;
+  color: gray;
+  margin-top: 30px;
+}
+#hel-hed{
+  color: #119999;
+}
+#work-hed{
+  color: #119999;
+}
+#skill-hed{
+  color: #119999;
+}
+.con{
+  color: #119999;
+}
+.bottom-container{
+  background-color: #71c9ce;
+  height: 100px;
+  padding-top: 50px;
+  margin-top: 50px;
+}
+.myButton {
+	box-shadow:inset 0px 0px 0px 0px #bbdaf7;
+	background:linear-gradient(to bottom, #79bbff 5%, #378de5 100%);
+	background-color:#79bbff;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 11px;
+	text-decoration:none;
+	text-shadow:0px 0px 0px #528ecc;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #378de5 5%, #79bbff 100%);
+	background-color:#378de5;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+#txt{
+  font-family: 'Noto Sans JP', sans-serif;
+}
+#txt2{
+  font-family: 'Noto Sans JP', sans-serif;
+}
+#txt3{
+  font-family: 'Noto Sans JP', sans-serif;
+}
+#txt4{
+  font-family: 'Noto Sans JP', sans-serif;
+}
